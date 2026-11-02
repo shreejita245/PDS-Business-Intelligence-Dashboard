@@ -1,0 +1,15 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj.user
+
+# Data files (large / private)
+*.csv
+*.rds
+*.RDS
+*.png
+
+# OS
+.DS_Store
+Thumbs.db
